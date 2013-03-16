@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:title="Time Trial"
+		android:id="@+id/menuTimeTrialStart" />
+	<item
+		android:title="Gandicaps"
+		android:id="@+id/menuGandicapsStart" />
+	<item
+		android:title="End Starts"
+		android:id="@+id/menuReset" />
+	<item
+		android:title="Restore Previous"
+		android:id="@+id/menuRestore" />
+</menu>
